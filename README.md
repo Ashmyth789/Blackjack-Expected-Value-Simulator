@@ -12,3 +12,4 @@ The objective is to analyze long-term profitability using expected value and var
 - Variance vs Long-Term Convergence
 - Risk-Reward asymmetry
 - Probabilistic decision modeling
+![Blackjack Simulation](16.png)
